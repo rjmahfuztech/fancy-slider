@@ -6,7 +6,7 @@
 
 ### visit website [https://rjmahfuztech.github.io/fancy-slider/](https://rjmahfuztech.github.io/fancy-slider/)
 
-## Used API of [https://pixabay.com/](https://pixabay.com/)
+### Used API of [https://pixabay.com/](https://pixabay.com/)
 
 1. You can search here any kind of images.
 2. You can select 2 or more images and can make it slider.
